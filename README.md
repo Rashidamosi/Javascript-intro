@@ -1,2 +1,2 @@
 # Javascript-intro
- Zuri Javascript inro course
+ Zuri Javascript intro task
