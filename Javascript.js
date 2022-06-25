@@ -2,7 +2,7 @@
 
 
 alert('My Name: Rashida Abdul-rashid'); //This prints out myname :)
-alert('My Height: 1.62M'); //This prints out my present height
+alert('My Height: 1.63M'); //This prints out my present height
 alert('My Country: Nigeria') //This prints out my country Nigeria<3 :>
 
 
